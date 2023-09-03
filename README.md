@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, It's Shohel Rana Shihab from BD</h1>
 <h3 align="center">I'm a Front End Web Developer & Problem Solver</h3>
 
