@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## 🌐 Socials:
+## ☕ Connect with me!:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shihab3g) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shohelranashihab) 
 
 # 💻 Things I code with:
