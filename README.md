@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, It's Shohel Rana Shihab from BD</h1>
-<h3 align="center">I'm a Front End Web Developer & Problem Solver</h3>
+<h3 align="center">I'm a Front-End Developer & Learing Backend Development </h3>
 
 ## ☕ Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shihab3g) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shohelranashihab) 
